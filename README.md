@@ -1,5 +1,5 @@
 # MPGE&RootRank-for-root-cause-diagnosis 
-## (Neural Networks, under review)
+## (Neural Networks, accepted
 Source code of paper: P. Song, C. Zhao, and B. Huang, "MPGE and RootRank: A Sufficient Root Cause Characterization and Quantification Framework for Industrial Process Faults," Neural Networks, accepted.
 
 ## Motivation
